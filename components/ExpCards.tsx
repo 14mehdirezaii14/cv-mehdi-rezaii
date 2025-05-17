@@ -20,7 +20,6 @@ const jobPositions = [
       Reduced page load time by 20% and increased user engagement by 30%.
       Built high-performance advertising SDK with pure JS and CSS.
       Implemented tracking with IntersectionObserver & MutationObserver.
-      Implemented tracking with IntersectionObserver & MutationObserver.
       `,
     skills: ["chart.ts", "ReactJs", "NextJs", "TailwindCss", "Turborepo"],
   },
